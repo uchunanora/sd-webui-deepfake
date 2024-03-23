@@ -41,7 +41,7 @@ https://github.com/Gourieff/sd-webui-reactor
 
 をペーストしてInstallをクリック
 
-Step4: 再実行
+### Step4: 再実行
 webui.ipynbの1段目セルのStopを押して、もう一度Runを押し再実行する。
 
-Step5: Enjoy🎉
+### Step5: Enjoy🎉
