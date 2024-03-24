@@ -11,6 +11,8 @@ git clone https://github.com/uchunanora/sd-webui-deepfake.git
 ### Step1: モデルのインストール
 webui.ipynbの2段目を実行（けっこう時間がかかる）
 
+[モデル: Beautiful Realistic Asians](https://civitai.com/models/25494?modelVersionId=177164)
+
 ### Step2: 一度実行
 
 webui.ipynbの1段目を実行（少し時間かかる）
